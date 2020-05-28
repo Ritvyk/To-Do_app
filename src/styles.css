@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Header {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+.Header h3 {
+  color: gold;
+}
+.addTodo {
+  border: 0.5px solid grey;
+  border-radius: 2px;
+  width: 100%;
+}
+.uialert {
+  position: absolute;
+  top: 20px;
+  left: 4px;
+}
